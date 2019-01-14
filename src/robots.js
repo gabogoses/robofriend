@@ -45,7 +45,7 @@ export const robots = [
         id: 8,
         name: 'Maxo Castro',
         username: 'Maximus AKA Max',
-        email: 'max@catsro.com'
+        email: 'max@castro.com'
     },
     {
         id: 9,
